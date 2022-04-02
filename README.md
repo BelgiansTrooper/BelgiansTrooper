@@ -1,7 +1,6 @@
-f- 👋 Hi, I’m @BelgiansTrooper
+/f- 👋 Hi, I’m @BelgiansTroope
 - 👀 I’m interested in Technologie
 - 🌱 I’m currently learning 
-- 📫 leave me a message
 
 <!---
 BelgiansTrooper/BelgiansTrooper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
